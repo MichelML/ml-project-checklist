@@ -82,5 +82,8 @@ Notes:
   - Decompose features (e.g., categorical, date/time, etc.).  
   - Add promising transformations of features (e.g., log(x), sqrt(x), x^2, etc.).
   - Aggregate features into promising new features.  
-4. Feature scaling: standardize or normalize features.
+4. Feature scaling: standardize or normalize features.  
+
+# Short-list promising models  
+
 
