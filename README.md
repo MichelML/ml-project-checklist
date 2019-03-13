@@ -1,4 +1,4 @@
-**N.B. This checklist is an exact copy of Appendix B of the book  [Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools](https://www.amazon.ca/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291)**  
+**N.B. This checklist is an exact copy of Appendix B of the book  [Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools](https://www.amazon.ca/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291) by Aurélien Géron**  
 
 This checklist can guide you through your Machine Learning projects. There are eight main steps:  
 
