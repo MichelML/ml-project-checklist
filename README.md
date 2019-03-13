@@ -40,4 +40,27 @@ Note: automate as much as possible so you can easily get fresh data.
 8. Convert the data to a format you can easily manipulate (without changing the data itself).  
 9. Ensure sensitive information is deleted or protected (e.g., anonymized). 
 10. Check the size and type of data (time series, sample, geographical, etc.).  
-11. Sample a test set, put it aside, and never look at it (no data snooping!).
+11. Sample a test set, put it aside, and never look at it (no data snooping!).    
+
+# Explore the data  
+Note: try to get insights from a field expert for these steps.  
+
+1. Create a copy of the data for exploration (sampling it down to a manageable size if necessary).
+2. Create a Jupyter notebook to keep record of your data exploration.  
+3. Study each attribute and its characteristics:  
+  - Name  
+  - Type (categorical, int/float, bounded/unbounded, text, structured, etc.)
+  - % of missing values  
+  - Noisiness and type of noise (stochastic, outliers, rounding errors, etc.)
+  - Possibly useful for the task?  
+  - Type of distribution (Gaussian, uniform, logarithmic, etc.)
+4. For supervised learning tasks, identify the target attribute(s).
+5. Visualize the data.  
+6. Study the correlations between attributes.  
+7. Study how you would solve the problem manually.  
+8. Identify the promising transformations you may want to apply.  
+9. Identify extra data that would be useful (go back to "Get the Data" on page 502).  
+10. Document what you have learned.  
+
+
+
