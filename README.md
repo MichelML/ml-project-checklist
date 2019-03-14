@@ -130,4 +130,3 @@ Notes:
     - Also monitor your inputs' quality (e.g., a malfunctioning sensor sending random values, or another team's output becoming stale). This is  particulary important for online learning systems.  
 3. Retrain your models on a regular basis on fresh data (automate as much as possible).  
 
-
